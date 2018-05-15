@@ -12,8 +12,8 @@ In this project, we help to explore macro level and micro level factors that pot
 
 ## Data
 `Data` folder contains cleaned version of Data used to generate visualizations.
-`suicide.csv` - Used with macro-level visualisations
-`foreveralone.csv` - Used with micro-level visualisation
+* `suicide.csv` - Used with macro-level visualisations
+* `foreveralone.csv` - Used with micro-level visualisation
 `raw_data` folder contains preliminary data files used in the process
 
 ## Final_presentation_Jose_Nishan.pdf
