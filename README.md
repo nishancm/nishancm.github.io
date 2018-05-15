@@ -5,9 +5,9 @@ In this project, we help to explore macro level and micro level factors that pot
 # file structure
 
 ## Code 
-`Code` folder contains jupiter notebooks with Python code used to generate the visualizations.
-`Data_Acquisition.ipynb` - Helps to merge different data sources (e.g. suicide rates from IHME, world bank data) to output `Data/suicide.csv` file
-`yearly_suicide_rates.ipynb` - Generate gap minder plots to show the relationship between suicide rates and different variables
+`Code` folder contains jupiter notebooks with Python code used to generate the visualizations.         
+`Data_Acquisition.ipynb` - Helps to merge different data sources (e.g. suicide rates from IHME, world bank data) to output `Data/suicide.csv` file        
+`yearly_suicide_rates.ipynb` - Generate gap minder plots to show the relationship between suicide rates and different variables      
 `Generate_ForeverAlone_visualization.ipynb` - Generate a unique visualization to present data at an individual level
 
 ## Data
